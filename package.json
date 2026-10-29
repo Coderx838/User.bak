@@ -1,0 +1,20 @@
+{
+    "name":"User.bak",
+    "version": "0.2.0",
+    "private": true,
+    "license": "UNLICENSED",
+    "description": "User.bak - A standin discord bot that manages for you, when you are away.",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts":{
+        "start": "node index.js",
+        "dev":"node --watch index.js"
+
+    },
+    "dependencies":{
+        "discord.js": "^14.18.0",
+        "dotenv": "^16.4.5",
+        "groq-sdk": "^0.9.1"
+    }
+
+}

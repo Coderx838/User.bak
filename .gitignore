@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env*.local
+# Zip of release that is stored in this folder.
+*.zip
+
+# Logs
+*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
