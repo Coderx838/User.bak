@@ -13,7 +13,7 @@
 
 
 ## Live Demo for you (yeh catty.):
-*Join the discord channel : https://discord.gg/K3ehg5gTf*
+*Join the discord channel : https://discord.gg/3tyx3vvdQZ*
 
 *Go to #demo in the server and talk to the bot by mentioning me, using my name (Coderx), or you can directly DM the bot.*
 
